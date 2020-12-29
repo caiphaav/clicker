@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@screens": ["./app/screens/"],
+      "@styles": ["./app/styles/"],
+      "@constants": ["./app/constants/"],
+      "@atoms": ["./app/components/atoms/"],
+      "@overlays": ["./app/overlays/"],
+      "@molecules": ["./app/components/molecules/"],
+      "@organisms": ["./app/components/organisms/"],
+      "@navigation": ["./app/navigation/"],
+      "@assets": ["./app/assets/"],
+      "@pages": ["./app/pages/"],
+      "@store": ["./app/store/"],
+      "@utils": ["./app/utils/"]
+    }
+  }
+}

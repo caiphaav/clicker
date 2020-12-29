@@ -1,0 +1,11 @@
+export const PRIMARY = '#eb1c24';
+export const SECONDARY = '#fcbd6b';
+export const YELLOW = '#fda923';
+export const WHITE = '#ffe';
+export const BLACK = '#111';
+export const BROWN = '#4c221f';
+export const DARK = '#907353';
+export const PINK = '#fa66a9';
+export const PINK_DARK = '#c91e24';
+export const ORANGE = '#ed4b35';
+export const GREEN = '#5ccb1c';
